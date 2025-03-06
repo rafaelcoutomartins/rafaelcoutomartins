@@ -1,11 +1,5 @@
 ### Olá, sou o Rafael e estamos ai na atividade!
 
-<div align="center">
-  <a href="https://github.com/rafaelcoutomartins">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=rafaelcoutomartins&show_icons=true&theme=github_dark &include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcoutomartins&layout=compact&langs_count=7&theme=github_dark "/>
-</div>
-
 ## Interesses
 <br>
 <div style="display: inline_block">
